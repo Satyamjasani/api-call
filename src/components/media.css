@@ -1,0 +1,14 @@
+@media screen and (max-width:648px)  {
+    .card{
+        flex-direction: column;
+        height: initial;
+        width: 100%;
+    }
+    .dimage{
+        /* flex: none; */
+    }
+    .dimage img{
+        height: 300px
+    }
+    
+}
